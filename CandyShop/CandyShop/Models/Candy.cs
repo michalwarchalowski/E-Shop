@@ -12,7 +12,7 @@ namespace CandyShop.Models
         public string Description { get; set; }
         public decimal Price { get; set; }
         public string ImageUrl { get; set; }
-        public int ImageThumnailUrl { get; set; }
+        public string ImageThumnailUrl { get; set; }
         public bool IsOnSale { get; set; }
         public bool IsOnStock { get; set; }
         public int CategoryId { get; set; }
