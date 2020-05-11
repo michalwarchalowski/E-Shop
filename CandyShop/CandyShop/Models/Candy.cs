@@ -16,5 +16,6 @@ namespace CandyShop.Models
         public bool IsOnSale { get; set; }
         public bool IsOnStock { get; set; }
         public int CategoryId { get; set; }
+        public Category Category { get; set; }
     }
 }
