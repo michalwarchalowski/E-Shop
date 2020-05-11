@@ -102,3 +102,5 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Can
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Candy\List.cshtml.g.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorTargetAssemblyInfo.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.Views.pdb
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
