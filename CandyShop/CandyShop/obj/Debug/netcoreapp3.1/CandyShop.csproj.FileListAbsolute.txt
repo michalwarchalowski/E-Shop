@@ -92,3 +92,13 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\zh-
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.CoreCompileInputs.cache
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cache
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.CopyComplete
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\CandyShop.Views.dll
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\CandyShop.Views.pdb
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorAssemblyInfo.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorAssemblyInfo.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.TagHelpers.input.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.TagHelpers.output.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorCoreGenerate.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Candy\List.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.RazorTargetAssemblyInfo.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.Views.pdb
