@@ -24,7 +24,7 @@ namespace CandyShop.Controllers
             //ViewBag.CurrentCategory = "Bestsellers";
             //return View(_candyRepository.GetAllCandy);
             var candyListViewModel = new CandyListViewModel();
-            candyListViewModel.Candies = _candyRepository.GetAllCandy;
+            candyListViewModel.Candies = _candyRepository.GetAllCandy();
             candyListViewModel.CurrentCategory = "Bestsellers";
             return View(candyListViewModel);
         }

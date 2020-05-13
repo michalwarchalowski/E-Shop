@@ -397,3 +397,7 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\run
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.CoreCompileInputs.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
