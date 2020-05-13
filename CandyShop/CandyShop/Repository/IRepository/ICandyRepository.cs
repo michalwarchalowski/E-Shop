@@ -8,8 +8,8 @@ namespace CandyShop.Repository.IRepository
 {
     public interface ICandyRepository
     {
-        IEnumerable<Candy> GetAllCandy { get; }
-        IEnumerable<Candy> GetCandyOnSale { get; }
+        IEnumerable<Candy> GetAllCandy();
+        IEnumerable<Candy> GetCandyOnSale();
         Candy GetCandyById(int CandyId);
     }
 }

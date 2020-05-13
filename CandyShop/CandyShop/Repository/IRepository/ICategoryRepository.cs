@@ -9,6 +9,6 @@ namespace CandyShop.Repository.IRepository
 {
     public interface ICategoryRepository
     {
-        IEnumerable<Category> GetAllCategories { get; }
+        IEnumerable<Category> GetAllCategories();
     }
 }

@@ -11,7 +11,7 @@ namespace CandyShop.Repository
 {
     public class CandyRepository : ICandyRepository
     {
-        private readonly ICategoryRepository _categoryRepository = new CategoryRepository();
+
         private readonly AppDbContext _appDbContext;
         public CandyRepository(AppDbContext appDbContext)
         {
@@ -20,12 +20,12 @@ namespace CandyShop.Repository
         
         public IEnumerable<Candy> GetAllCandy()
         {
-            return _appDbContext.Candies.Include(c => c.Category);
+            return _appDbContext.Candies.Include(c => c.Category).ToList();
         }
 
         public IEnumerable<Candy> GetCandyOnSale()
         {
-            return _appDbContext.Candies.Include(c => c.Category).Where(x => x.IsOnSale);
+            return _appDbContext.Candies.Include(c => c.Category).Where(x => x.IsOnSale).ToList();
         }
 
         public Candy GetCandyById(int CandyId)
