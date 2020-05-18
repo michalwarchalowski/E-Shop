@@ -401,3 +401,4 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Can
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cache
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Candy\Details.cshtml.g.cs
