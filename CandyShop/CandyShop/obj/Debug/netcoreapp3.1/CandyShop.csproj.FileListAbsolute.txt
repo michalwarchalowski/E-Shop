@@ -403,3 +403,5 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Can
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Candy\Details.cshtml.g.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_candyCard.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_carousel.cshtml.g.cs
