@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -70,6 +71,13 @@ namespace CandyShop.Models
             }
             _appDbContext.SaveChanges();
             return localAmount;
+        }
+
+        public List<ShoppingCartItem> GetShoppingCartItems()
+        {
+            return ShoppingCartItems ?? (ShoppingCartItems = _appDbContext.ShoppingCartItems.Where(c
+                =>c.ShoppingCartId==ShoppingCartId)
+                .Include(s=>s.Candy).ToList());
         }
     }
 }
