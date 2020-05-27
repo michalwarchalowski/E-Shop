@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CandyShop.Models;
 using CandyShop.Repository.IRepository;
+using CandyShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
@@ -31,6 +32,19 @@ namespace CandyShop.Controllers
             };
             return View(shoppingCartViewModel);
         
+        }
+
+        public RedirectToActionResult AddToShoppingCart(int candyId)
+        {
+
+            var selectedCandy = _candyRepository.GetAllCandy().FirstOrDefault(c => c.CandyId == candyId);
+
+            if (selectedCandy != null)
+            {
+                _shoppingCart.AddToCart(selectedCandy, 1);
+            }
+
+            return RedirectToAction("Index");
         }
     }
 }
