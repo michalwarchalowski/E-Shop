@@ -79,5 +79,13 @@ namespace CandyShop.Models
                 =>c.ShoppingCartId==ShoppingCartId)
                 .Include(s=>s.Candy).ToList());
         }
+
+        public void ClearCart()
+        {
+            var cartItems = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId);
+
+            _appDbContext.ShoppingCartItems.RemoveRange(cartItems);
+            _appDbContext.SaveChanges();
+        }
     }
 }
