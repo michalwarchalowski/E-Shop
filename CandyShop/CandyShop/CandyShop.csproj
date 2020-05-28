@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Shared\Components\ShoppingCartSummary\" />
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
