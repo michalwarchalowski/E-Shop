@@ -416,3 +416,11 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\bin\Debug\netcoreapp3.1\Mic
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.csproj.CoreCompileInputs.cache
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\CandyShop.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
