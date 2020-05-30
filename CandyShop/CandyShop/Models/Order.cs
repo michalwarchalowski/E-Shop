@@ -25,23 +25,23 @@ namespace CandyShop.Models
         [Required(ErrorMessage = "Please enter yor Address")]
         [Display(Name = "Street Address")]
         [StringLength(25)]
-        public int Address { get; set; }
+        public string Address { get; set; }
 
 
         [Required(ErrorMessage = "Please enter yor City")]
-        public int City { get; set; }
+        public string City { get; set; }
 
         [Required(ErrorMessage = "Please enter yor state")]
         [StringLength(2,MinimumLength =2)]
-        public int State { get; set; }
+        public string State { get; set; }
 
 
         [Required(ErrorMessage = "Please enter yor ZipCode")]
         [StringLength(5, MinimumLength = 5)]
-        public int ZipCode { get; set; }
+        public string ZipCode { get; set; }
 
         [Required(ErrorMessage = "Please enter yor ZipCode")]
-[DataType(DataType.PhoneNumber)]
+        [DataType(DataType.PhoneNumber)]
         public int PhoneNumber { get; set; }
 
         public List<OrderDetail> OrderDetails { get; set; }

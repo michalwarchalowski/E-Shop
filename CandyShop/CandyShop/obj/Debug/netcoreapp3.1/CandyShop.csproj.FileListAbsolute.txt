@@ -409,3 +409,5 @@ D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Raz
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\c#\ASP NET CORE\E-Shop\E-Shop\CandyShop\CandyShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
