@@ -55,6 +55,7 @@ namespace CandyShop
             app.UseRouting();
             app.UseAuthentication();
             app.UseSession();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
