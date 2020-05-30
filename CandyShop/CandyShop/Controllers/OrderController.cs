@@ -43,5 +43,11 @@ namespace CandyShop.Controllers
 
             return View(order);
         }
+
+        public IActionResult CheckoutComplete()
+        {
+            ViewBag.CheckoutCompeleMessage = " Thank foy yor order";
+            return View();
+        }
     }
 }
